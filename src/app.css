@@ -1,0 +1,13 @@
+body {    
+    color: #012C33;
+    /* color: #05414F */
+    text-align: center;
+}
+
+a:link {
+    color: #DC6968
+}
+
+a:hover {
+    color: #F3868D
+}
